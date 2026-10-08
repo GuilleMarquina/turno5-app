@@ -1,7 +1,7 @@
 {
-  "name": "Turno 5",
-  "short_name": "Turno 5",
-  "description": "App del Turno 5 (Parque de Arganda).",
+  "name": "Turno Bomberos",
+  "short_name": "Turno Bomberos",
+  "description": "App para organizar el turno: dotación, tareas y cuadrante.",
   "lang": "es",
   "start_url": "./",
   "scope": "./",

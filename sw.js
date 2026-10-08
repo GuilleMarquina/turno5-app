@@ -1,6 +1,6 @@
 // Service worker de la carcasa: guarda solo sus propios archivos (la app de Google va siempre por red).
 // Primero la red, para que los cambios lleguen enseguida; sin conexión, lo guardado.
-const CACHE = 'turno5-carcasa-1';
+const CACHE = 'turno-carcasa-2';
 const ARCHIVOS = ['./', 'index.html', 'manifest.webmanifest', 'icono-192.png', 'icono-512.png',
   'icono-maskable-512.png', 'apple-touch-icon.png', 'favicon.png'];
 
